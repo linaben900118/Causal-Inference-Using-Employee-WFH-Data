@@ -1,4 +1,4 @@
-cd "C:\Users\tejir\OneDrive\Desktop\econ 318 empirical project"
+cd [INSERT LOCAL FOLDER PATH HERE]
 
 clear all 
 frames reset
